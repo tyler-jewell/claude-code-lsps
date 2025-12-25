@@ -1,5 +1,5 @@
 {
-  "name": "dart-analyzer",
+  "name": "dart-lsp",
   "description": "Dart/Flutter language server",
   "version": "1.1.0",
   "author": {
